@@ -8,22 +8,22 @@ Trabalho para gerenciamento de um "Meditec", feito por Renan Celi brun e Matheus
 
 ## Primeiros passos
 
-[ ] Administrador
-    [ ] Instituição: listar e cadastrar;
-    [ ] Pessoa: listar e cadastrar;
-    [ ] Gerenciar pagamentos;
-[ ] Coordenador
-    [ ] Evento: Listar e Cadastrar
-        [ ] Atividade: listar e cadastrar;
-        [ ] Pacote: listar e cadastrar;
-        [ ] Inscrições: listar, validar;
-    [ ] Relatorio Grafico de Informacoes sobre:
-        [ ] Inscricoes
-        [ ] Pagamentos
-[ ] Participante
-    ( ) Inscricao em Evento
-        [ ] Escolher Atividades
-        [ ] Gerar Boleto
+- [ ] Administrador
+-    [ ] Instituição: listar e cadastrar;
+-    [ ] Pessoa: listar e cadastrar;
+-    [ ] Gerenciar pagamentos;
+- [ ] Coordenador
+-    [ ] Evento: Listar e Cadastrar
+-       [ ] Atividade: listar e cadastrar;
+-       [ ] Pacote: listar e cadastrar;
+-       [ ] Inscrições: listar, validar;
+-   [ ] Relatorio Grafico de Informacoes sobre:
+-       [ ] Inscricoes
+-       [ ] Pagamentos
+- [ ] Participante
+-   [ ] Inscricao em Evento
+-       [ ] Escolher Atividades
+-       [ ] Gerar Boleto
 
 ### Area Nao-Autenticada
 
