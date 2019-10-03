@@ -8,22 +8,22 @@ Trabalho para gerenciamento de um "Meditec", feito por Renan Celi brun e Matheus
 
 ## Primeiros passos
 
-- [ ] Administrador
--    [ ] Instituição: listar e cadastrar;
--    [ ] Pessoa: listar e cadastrar;
--    [ ] Gerenciar pagamentos;
-- [ ] Coordenador
--    [ ] Evento: Listar e Cadastrar
--       [ ] Atividade: listar e cadastrar;
--       [ ] Pacote: listar e cadastrar;
--       [ ] Inscrições: listar, validar;
--   [ ] Relatorio Grafico de Informacoes sobre:
--       [ ] Inscricoes
--       [ ] Pagamentos
-- [ ] Participante
--   [ ] Inscricao em Evento
--       [ ] Escolher Atividades
--       [ ] Gerar Boleto
+* - [ ] Administrador
+  * - [ ] Instituição: listar e cadastrar;
+  * - [ ] Pessoa: listar e cadastrar;
+  * - [ ] Gerenciar pagamentos;
+* - [ ] Coordenador
+  * - [ ] Evento: Listar e Cadastrar;
+    * - [ ] Atividade: listar e cadastrar;
+    * - [ ] Pacote: listar e cadastrar;
+    * - [ ] Inscrições: listar, validar;
+  * - [ ] Relatorio Grafico de Informacoes sobre:
+    * - [ ] Inscricoes
+    * - [ ] Pagamentos
+* - [ ] Participante
+  * - [ ] Inscricao em Evento
+    * - [ ] Escolher Atividades
+    * - [ ] Gerar Boleto
 
 ### Area Nao-Autenticada
 
@@ -42,27 +42,27 @@ Trabalho para gerenciamento de um "Meditec", feito por Renan Celi brun e Matheus
 
 ### Comandos Angular
 
-[ ] Diretivas de decisão (if) e repetição (for)
-[ ] Class binding
-[ ] Style binding
-[ ] Event binding
-[ ] Property binding
-[ ] Two-way-databinding
-[ ] Reactive Form
-[ ] Router (roteamento)
-[ ] Service
-[ ] @Input
-[ ] @Output
+- [ ] Diretivas de decisão (if) e repetição (for)
+- [ ] Class binding
+- [ ] Style binding
+- [ ] Event binding
+- [ ] Property binding
+- [ ] Two-way-databinding
+- [ ] Reactive Form
+- [ ] Router (roteamento)
+- [ ] Service
+- [ ] @Input
+- [ ] @Output
 
 
 ### Componentes Angular Material
 
-[ ] Table
-[ ] Stepper
-[ ] Dialog
-[ ] Snack-bar
-[ ] Bottom Sheet
-[ ] Expansion panel
+- [ ] Table
+- [ ] Stepper
+- [ ] Dialog
+- [ ] Snack-bar
+- [ ] Bottom Sheet
+- [ ] Expansion panel
 
 ### Graficos
 
